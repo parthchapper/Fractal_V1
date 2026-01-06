@@ -66,7 +66,7 @@ Example
 
 Future Improvements
 
-Add more fractal types (e.g., Julia set, Multibrot sets).
+Add more fractal types (e.g., Julia set, Multibrot sets) .
 
 Enable dynamic color maps.
 
